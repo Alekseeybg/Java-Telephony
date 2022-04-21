@@ -19,6 +19,7 @@ If there is a character different from a digit in a number, print: "Invalid numb
 Constraints:
 Each site's URL should consist only of letters and symbols (No digits are allowed in the URL address)
 The phone numbers will always be 7 or 10 digits long
+
 Input:
 
 0882134215 0882134333 0899213421 0558123 3333123
