@@ -23,6 +23,7 @@ The phone numbers will always be 7 or 10 digits long
 Input:
 
 0882134215 0882134333 0899213421 0558123 3333123
+
 http://softuni.bg http://youtube.com http://www.g00gle.com
 
 
